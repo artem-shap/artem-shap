@@ -11,13 +11,13 @@ and deploy to production. Everything listed below is live and self-initiated.
 
 ## Projects
 
-| Project | What it is | Built with | Live |
-| --- | --- | --- | --- |
-| **ApexShine Detailing** | Mobile car-detailing business site | Astro, CSS | [Open](https://apexshine-detailing.vercel.app) |
-| **LUMIÈRE Skincare** | Luxury skincare brand landing page | HTML, CSS | [Open](https://lumiere-skincare-blond.vercel.app) |
-| **Ember & Stone Kitchen** | Restaurant landing page | HTML, CSS | [Open](https://ember-and-stone-kitchen.vercel.app) |
-| **Gasperety** | Clothing brand, numbered-ownership concept | HTML, CSS, JS | [Open](https://gasperety.com) |
-| **AI Operator** | Mobile directory of AI tools | React Native, Expo, TypeScript | [Open](https://ai-operator-web.vercel.app) |
+| Project | What it is | Built with | Live | Source |
+| --- | --- | --- | --- | --- |
+| **ApexShine Detailing** | Mobile car-detailing business site | Astro, CSS | [Open](https://apexshine-detailing.vercel.app) | [Code](https://github.com/artem-shap/apexshine-detailing) |
+| **LUMIÈRE Skincare** | Luxury skincare brand landing page | Astro, CSS | [Open](https://lumiere-skincare-blond.vercel.app) | [Code](https://github.com/artem-shap/lumiere-skincare) |
+| **Ember & Stone Kitchen** | Restaurant landing page | Astro, CSS | [Open](https://ember-and-stone-kitchen.vercel.app) | [Code](https://github.com/artem-shap/ember-and-stone-kitchen) |
+| **Gasperety** | Clothing brand, numbered-ownership concept | Next.js, Supabase, Stripe | [Open](https://gasperety.com) | Private |
+| **AI Operator** | Mobile directory of AI tools | React Native, Expo, TypeScript | [Open](https://ai-operator-web.vercel.app) | [Code](https://github.com/artem-shap/ai-operator) |
 
 All five are concept projects I initiated myself — built to learn, and to show what I can ship end to end.
 
