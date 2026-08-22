@@ -5,7 +5,7 @@
 I plan projects, direct Claude Code to build them, review and iterate on the output,
 and deploy to production. Everything listed below is live and self-initiated.
 
-[Portfolio](https://artem-portfolio.vercel.app) · [Email](mailto:Wertyjon2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/artem-shapovalov-1a9aaa31)
+[Email](mailto:Wertyjon2@gmail.com) · [LinkedIn](https://www.linkedin.com/in/artem-shapovalov-1a9aaa31)
 
 ---
 
