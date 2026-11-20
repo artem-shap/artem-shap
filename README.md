@@ -41,6 +41,6 @@ surface in a technical interview.
 ## What I am looking for
 
 A junior developer role on a team I can learn from — Rotterdam, Den Haag, or remote.
-I have applied to a full-stack and AI-integration bootcamp starting September 2026.
+From September to November 2026 I followed part of a full-stack MERN bootcamp (Matrix Master, Rotterdam). Now I keep learning by building real projects.
 
 **Languages** — Ukrainian (native) · Russian (fluent) · English (professional) · Dutch (B1)
